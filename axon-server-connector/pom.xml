@@ -176,6 +176,7 @@
                     <archive>
                         <manifestEntries>
                             <Automatic-Module-Name>org.axonframework.connector.axonserver</Automatic-Module-Name>
+                            <Implementation-Title>Axon-Framework-Connector-for-AxonServer</Implementation-Title>
                         </manifestEntries>
                     </archive>
                 </configuration>
